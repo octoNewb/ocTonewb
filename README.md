@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 🌱
+
+I'm a **technical writer** who's learning about GitHub!
 
 <!--
 **octoNewb/octoNewb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
